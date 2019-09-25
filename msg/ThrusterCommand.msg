@@ -1,0 +1,2 @@
+int16 thrusterLeftCommand
+int16 thrusterRightCommand
